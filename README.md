@@ -6,7 +6,7 @@ A Multi-Hop Low Duty Cycle Medium Access Control (MLDC-MAC) protocol for Wireles
    Simulation Parameters:
 Deployment area : 50x50 m2 & 100x100 m2,
 Initial energy of node : 5 joule,
-Energy transmission : 50 nJ/bit,
+Transmission Energy : 50 nJ/bit,
 Idle Energy : 40 nJ/bit,
 Transmit amplifier Energy : 100 pJ/bit/m2,
 Threshold Energy : 0.1 Joule,
