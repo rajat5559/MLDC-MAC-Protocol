@@ -13,5 +13,5 @@ Threshold Energy : 0.1 Joule,
 Data/Schedule message size : 500 Bytes,
 Control message size : 20 Bytes,
 Number of frames in a round : 20,
-Number of CHs (C): 16 & 25
+Number of CHs (C): 16 & 25,
 Number of nodes (N): 100 & 200
